@@ -7,10 +7,8 @@ View all valued references that I have came across and have used to enhance my k
 * [Reinforcement Learning / Robotics](#reinforcement-learning-robotics)
 * [DataScience Courses that would add Value to your understanding](#valuable-courses-for-indepth-insights)
 * [Datascience Blogs to BINGE on ](#blogs-to-binge-on)
+* [Popular Python Libraries for Data Science](#popular-python-libraries-for-ds)
 * [Deep Learning Research Papers](#deep-learning-research-papers)
-
-
-
 
 
 ## Get started with Machine Learning
@@ -177,6 +175,22 @@ To get understanding of how Machines Learn and how Machine Learning paradigm is 
 * [Apple Machine Learning Journal](https://machinelearning.apple.com/)
 * [Depth First Learning](http://www.depthfirstlearning.com/)
 * [The Gradient](https://thegradient.pub/)
+
+## Popular Python Libraries for Data Science
+
+* [Numpy](http://www.numpy.org/)
+* [Pandas](http://pandas.pydata.org/)
+* [Matplotlib](https://matplotlib.org/)
+* [Matplotlib-Pyplot](https://matplotlib.org/api/pyplot_api.html)
+* [Different scalers on data](https://scikit-learn.org/stable/auto_examples/preprocessing/plot_all_scaling.html)
+* [SciPy](https://www.scipy.org/getting-started.html)
+* [Sklearn Modules for Data Preprocessing](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.preprocessing)
+* [Sklearn utilities to load datasets](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.datasets)
+* [Keras: The Python Deep Learning library](https://keras.io/)
+* [Keras Text Preprocessing](https://keras.io/preprocessing/text/)
+* [Keras Image Preprocessing](https://keras.io/preprocessing/image/)
+* [Keras datasets](https://keras.io/datasets/)
+* [Scikit-Learn](http://scikit-learn.org/stable/)
 
 
 ## Deep Learning Research Papers:  
