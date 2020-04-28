@@ -7,7 +7,7 @@ View all valued references that I have came across and have used to enhance my k
 * [Reinforcement Learning / Robotics](#reinforcement-learning-robotics)
 * [DataScience Courses that would add Value to your understanding](#valuable-courses-for-indepth-insights)
 * [Datascience Blogs to BINGE on ](#blogs-to-binge-on)
-* [Popular Python Libraries for Data Science](#popular-python-libraries-for-ds)
+* [Popular Python Libraries for Data Science](#popular-python-libraries-for-data-science)
 * [Deep Learning Research Papers](#deep-learning-research-papers)
 
 
