@@ -5,9 +5,7 @@ View all valued references that I have came across and have used to enhance my k
 * [Popular Algorithms in  Machine Learning](#popular-algorithms-in-machine-learning)
 * [Introduction to Deep Learning Algorithms](#introduction-to-deep-learning-algorithms)
 * [Deep Learning Research Papers](#deep-learning-research-papers)
-
-
-
+* [Reinforcement Learning / Robotics](#reinforcement-learning-robotics)
 
 
 
@@ -98,12 +96,10 @@ To get understanding of how Machines Learn and how Machine Learning paradigm is 
 	* [Recurrent Neural Networks - Intel Nervana](https://www.youtube.com/watch?v=Ukgii7Yd_cU)
 	* [Introduction to RNNs](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
 
-5) **Reinforcement Learning**: Reinforcement Learning is a subfield of Machine Learning, but is also a general purpose formalism for automated decision-making and AI.
-	* [David Silver's Reinforcement Learning Course](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL5X3mDkKaJrL42i_jhE4N-p6E2Ol62Ofa)
-	* [Simple Reinforcement Learning with Tensorflow](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
 
 
-## Deep Learning Research Papers:Papers that were quite influential in building and improving Deep Learning paradigm 
+## Deep Learning Research Papers:  
+Papers that were quite influential in building and improving Deep Learning paradigm 
 
 * [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications (2017), Andrew G. Howard et al.](https://arxiv.org/pdf/1704.04861.pdf)
 * [A Knowledge-Grounded Neural Conversation Model (2017), Marjan Ghazvininejad et al.](https://arxiv.org/pdf/1702.01932.pdf)
@@ -172,3 +168,15 @@ To get understanding of how Machines Learn and how Machine Learning paradigm is 
 * [Hidden Technical Debt in ML Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
 * [MobileNets](https://arxiv.org/pdf/1704.04861.pdf)
 * [Learning from Imbalanced Data](http://www.ele.uri.edu/faculty/he/PDFfiles/ImbalancedLearning.pdf)
+
+
+## Reinforcement Learning Robotics
+
+* [End-to-end training of deep visuomotor policies (2016), S. Levine et al.](https://arxiv.org/pdf/1504.00702.pdf)
+* [Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection (2016), S. Levine et al.](https://arxiv.org/pdf/1603.02199.pdf)
+* [Asynchronous methods for deep reinforcement learning (2016), V. Mnih et al.](http://proceedings.mlr.press/v48/mniha16.pdf)
+* [Deep Reinforcement Learning with Double Q-Learning (2016), H. Hasselt et al.](https://arxiv.org/pdf/1509.06461.pdf)
+* [Mastering the game of Go with deep neural networks and tree search (2016), D. Silver et al.](https://www.nature.com/articles/nature16961)
+* [Continuous control with deep reinforcement learning (2015), T. Lillicrap et al.](https://arxiv.org/pdf/1509.02971.pdf)
+* [Deep learning for detecting robotic grasps (2015), I. Lenz et al.](http://www.cs.cornell.edu/~asaxena/papers/lenz_lee_saxena_deep_learning_grasping_ijrr2014.pdf)
+* [Playing atari with deep reinforcement learning (2013), V. Mnih et al.](https://arxiv.org/pdf/1312.5602.pdf)
