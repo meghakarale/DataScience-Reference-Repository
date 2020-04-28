@@ -6,7 +6,9 @@ View all valued references that I have came across and have used to enhance my k
 * [Introduction to Deep Learning Algorithms](#introduction-to-deep-learning-algorithms)
 * [Reinforcement Learning / Robotics](#reinforcement-learning-robotics)
 * [DataScience Courses that would add Value to your understanding](#valuable-courses-for-indepth-insights)
+* [Datascience Blogs to BINGE on ](#blogs-to-binge-on)
 * [Deep Learning Research Papers](#deep-learning-research-papers)
+
 
 
 
@@ -137,6 +139,44 @@ To get understanding of how Machines Learn and how Machine Learning paradigm is 
 * [Caltech CS 156 - Machine Learning](https://www.youtube.com/playlist?list=PLD63A284B7615313A)
 * [Berkeley EE 227C - Convex Optimization](https://ee227c.github.io/)
 
+## Blogs to BINGE on
+
+* [OpenAI: Discovering and enacting the path to safe artificial general intelligence](https://www.openai.com/blog/)
+* [Distill A modern medium for presenting research](https://distill.pub/)
+* [Christopher Olah's blog](http://colah.github.io/)
+* [Andrej Karpathy](http://karpathy.github.io/)
+* [Data Science Central](https://www.datasciencecentral.com/)
+* [SmartData Collective](https://www.smartdatacollective.com/)
+* [No Free Hunch](https://medium.com/kaggle-blog)
+* [Simply Statistics](https://simplystatistics.org/)
+* [Datafloq](https://datafloq.com/)
+* [Data Science 101](https://101.datascience.community/)
+* [Dataconomy](https://dataconomy.com/)
+* [Data Science Report](http://starbridgepartners.com/data-science-report/)
+* [Google Research](https://research.googleblog.com/)
+* [Neil Lawrence](http://inverseprobability.com/blog)
+* [Qure.ai](http://blog.qure.ai/)
+* [Brandon Amos](http://bamos.github.io/blog/)
+* [Denny Britz](http://www.wildml.com/)
+* [Moritz Hardt](http://blog.mrtz.org/)
+* [Deepmind](https://deepmind.com/blog/)
+* [Machine Learning Mastery](http://machinelearningmastery.com/blog/)
+* [Smerity](http://smerity.com/articles/articles.html)
+* [The Neural Perspective](https://theneuralperspective.com/)
+* [Pete Warden](https://petewarden.com/page/2/)
+* [Kevin Zakka](https://kevinzakka.github.io/)
+* [Thomas Dinsmore](https://thomaswdinsmore.com/)
+* [Rohan Varma](http://rohanvarma.me/)
+* [Anish Athalye](https://www.anishathalye.com/)
+* [Arthur Juliani](https://medium.com/@awjuliani)
+* [CleverHans](http://www.cleverhans.io/)
+* [Off the Convex Path](http://www.offconvex.org/about/)
+* [Sebastian Ruder](http://ruder.io/#open)
+* [Berkeley AI Research](http://bair.berkeley.edu/blog/)
+* [Facebook AI Research](https://research.fb.com/blog/)
+* [Apple Machine Learning Journal](https://machinelearning.apple.com/)
+* [Depth First Learning](http://www.depthfirstlearning.com/)
+* [The Gradient](https://thegradient.pub/)
 
 
 ## Deep Learning Research Papers:  
