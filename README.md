@@ -105,6 +105,16 @@ To get understanding of how Machines Learn and how Machine Learning paradigm is 
 
 ## Deep Learning Research Papers:Papers that were quite influential in building and improving Deep Learning paradigm 
 
+* [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications (2017), Andrew G. Howard et al.](https://arxiv.org/pdf/1704.04861.pdf)
+* [A Knowledge-Grounded Neural Conversation Model (2017), Marjan Ghazvininejad et al.](https://arxiv.org/pdf/1702.01932.pdf)
+* [Evolution Strategies as a Scalable Alternative to Reinforcement Learning (2017), T. Salimans et al.](https://arxiv.org/pdf/1703.03864v1.pdf)
+* [Learning to discover cross-domain relations with generative adversarial networks (2017), T. Kim et al.](https://arxiv.org/pdf/1703.05192v1.pdf)
+* [PixelNet: Representation of the pixels, by the pixels, and for the pixels (2017), A. Bansal et al.](https://arxiv.org/pdf/1702.06506v1.pdf)
+* [Understanding deep learning requires rethinking generalization (2017), C. Zhang et al.](https://arxiv.org/pdf/1611.03530.pdf)
+* [Recurrent neural network based language model (2010), T. Mikolov et al.](http://www.fit.vutbr.cz/research/groups/speech/servite/2010/rnnlm_mikolov.pdf)
+* [Understanding the difficulty of training deep feedforward neural networks (2010), X. Glorot and Y. Bengio](https://machinelearning.wustl.edu/mlpapers/paper_files/AISTATS2010_GlorotB10.pdf)
+* [Gradient-based learning applied to document recognition (1998), Y. LeCun et al.](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
+* [Deep voice: Real-time neural text-to-speech (2017), S. Arik et al.](https://arxiv.org/pdf/1702.07825v2.pdf)
 * [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 * [GoogLeNet](https://arxiv.org/pdf/1409.4842v1.pdf)
 * [VGGNet](https://arxiv.org/pdf/1409.1556v6.pdf)
