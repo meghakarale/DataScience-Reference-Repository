@@ -3,6 +3,7 @@ View all valued references that I have came across and have used to enhance my k
 
 * [Getting Started with  Machine Learning](#get-started-with-machine-learning)
 * [Popular Algorithms in  Machine Learning](#popular-algorithms-in-machine-learning)
+* [Introduction to Deep Learning Algorithms](#introduction-to-deep-learning-algorithms)
 
 
 
@@ -67,5 +68,38 @@ To get understanding of how Machines Learn and how Machine Learning paradigm is 
 	* [Stanford K Means Overview](http://stanford.edu/~cpiech/cs221/handouts/kmeans.html)
 	* [Siraj Raval K Means Tutorial](https://www.youtube.com/watch?v=9991JlKnFmk)
 	
+## Introduction to Deep Learning Algorithms	
+
+1) **Neural Networks**: Getting started with Deep learning, Neural Networks Deep Learning is subfield of Machine Learning an advance take on Machine Learning . Learning here happens through layers stacked one after the other constituting to a Neural Network architecture. The whole idea revolves around designing the best Neural Network architecture that leads to highest accuracy and lowest error.
+	* [A Friendly Introduction to Deep Learning and Neural Networks](https://www.youtube.com/watch?v=BR9h47Jtqyw)
+	* [3Blue1Brown Neural Network Playlist](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+	* [How Deep Neural Networks Work](https://www.youtube.com/watch?v=ILsA4nyG7I0)
+	* [Neural Network Playground](http://playground.tensorflow.org)
+	* [Michael Nielsen Book on NNs](http://neuralnetworksanddeeplearning.com/chap1.html)
+	
+
+2) **Artificial Neural Networks**:  Artificial Neural Network(CNN) take inspiration from a section in the human brain named temporal Lobe (responsible for storing all your memories for long), ANN learn inherent Latent patterns in data and memorize them during training to recall them later to gice predictions for upcoming data
+	* [Neural Nets](https://www.youtube.com/watch?v=uXt8qF2Zzfo): in this video, Prof. Winston introduces neural nets and back propagation.
+	* [How Deep Neural Networks Work:Brandon Rohrer](https://www.youtube.com/watch?v=ILsA4nyG7I0)
+	* [Gradient Descent:Kilian Weinberger ](https://www.youtube.com/watch?v=o6FfdP2uYh4)
+	
+	
+3) **Convolutional Neural Networks**:  Convolutional Neural Network(CNN) take inspiration from a section in the human brain named Ocipital Lobe (responsible for vision), CNN hence is very popularly used in image processing i.e. unstructured data processing.
+	* [CS231n Visual Recognition](http://cs231n.github.io/convolutional-networks/)
+	* [CS231n Video Lectures](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
+	* [Brandon Rohrer YouTube Tutorial](https://www.youtube.com/watch?v=FmpDIaiMIeA)
+	* [Andrew Ng's CNN Course](https://www.youtube.com/playlist?list=PLBAGcD3siRDjBU8sKRk0zX9pMz9qeVxud)
+
+4) **Recurrent Neural Networks**: Recurrent Neural Network are Neural Network that are recursive by nature .
+	* [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+	* [CS 224D Video Lectures](https://www.youtube.com/playlist?list=PLCJlDcMjVoEdtem5GaohTC1o9HTTFtK7_)
+	* [RNNs and LSTMs](https://www.youtube.com/watch?v=WCUNPb-5EYI)
+	* [Recurrent Neural Networks - Intel Nervana](https://www.youtube.com/watch?v=Ukgii7Yd_cU)
+	* [Introduction to RNNs](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
+
+5) **Reinforcement Learning**: 
+	* [David Silver's Reinforcement Learning Course](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL5X3mDkKaJrL42i_jhE4N-p6E2Ol62Ofa)
+	* [Simple Reinforcement Learning with Tensorflow](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
+
 
 
