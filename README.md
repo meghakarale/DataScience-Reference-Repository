@@ -97,7 +97,7 @@ To get understanding of how Machines Learn and how Machine Learning paradigm is 
 	* [Recurrent Neural Networks - Intel Nervana](https://www.youtube.com/watch?v=Ukgii7Yd_cU)
 	* [Introduction to RNNs](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
 
-5) **Reinforcement Learning**: 
+5) **Reinforcement Learning**: Reinforcement Learning is a subfield of Machine Learning, but is also a general purpose formalism for automated decision-making and AI.
 	* [David Silver's Reinforcement Learning Course](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL5X3mDkKaJrL42i_jhE4N-p6E2Ol62Ofa)
 	* [Simple Reinforcement Learning with Tensorflow](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
 
