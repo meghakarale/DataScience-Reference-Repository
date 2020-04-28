@@ -2,7 +2,7 @@
 View all valued references that I have came across and have used to enhance my knowledge and understanding of various DataScience Cocenpts
 
 * [Getting Started with  Machine Learning](#get-started-with-machine-learning)
-
+* [Popular Algorithms in  Machine Learning](#popular-algorithms-in-machine-learning)
 
 
 
@@ -28,4 +28,44 @@ To get understanding of how Machines Learn and how Machine Learning paradigm is 
 	* [What is Machine Learning?](https://www.youtube.com/watch?v=WXHM_i-fgGo): This video introduces you to prominent different ways in which we can make Machines learn , viz. Supervised Learning, UnSupervised Learning , Reinforcement Learning (Adaptive Learning)
 	* [Basic Machine Learning Algorithms Overview](https://www.youtube.com/watch?v=ggIk08PNcBo): This video gives insights to different algorithms used for different use cases in Machine Learning
 	* [Machine Learning from Zero to Hero](https://medium.freecodecamp.org/machine-learning-how-to-go-from-zero-to-hero-40e26f8aa6da): This video is quite interesting in gaining interest in the subject of Machine Learning. 
+	
+	
+## Popular Algorithms in Machine Learning
+
+1) **Linear Regression**: 
+	* [Coursera Course - Linear Regression with One Variable](https://www.youtube.com/watch?v=kHwlB_j7Hkc)
+	* [Simple Linear Regression](https://www.youtube.com/watch?v=ZkjP5RJLQF4)
+	* [Linear Regression for Machine Learning](https://machinelearningmastery.com/linear-regression-for-machine-learning/)
+
+2) **Decision Trees**:
+	* [Nando de Freitas Lecture](https://www.youtube.com/watch?v=-dCtJjlEEgM)
+	* [Decision Trees in ML](https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052)
+	
+3)	**Random Forest**:
+	* [Nando de Freitas Lecture](https://www.youtube.com/watch?v=3kYujfDgmNk)
+	* [Random Forest in ML](https://towardsdatascience.com/understanding-random-forest-58381e0602d2)
+	
+4) **Logistic Regression**: 
+	* [Coursera Course - Logistic Regression and Classification](https://www.youtube.com/watch?v=-la3q9d7AKQ)
+	* [Logistic Regression - An Introduction](https://www.youtube.com/watch?v=zAULhNrnuL4)
+	* [Stanford Logistic Regression Overview](http://ufldl.stanford.edu/tutorial/supervised/LogisticRegression/)
+	* [Siraj Raval Logistic Regression Tutorial](https://www.youtube.com/watch?v=D8alok2P468)
+
+5) **K Nearest Neighbors**: 
+	* [K Nearest Neighbors](https://www.youtube.com/watch?v=k_7gMp5wh5A)
+	* [GeeksForGeeks Explanation](https://www.geeksforgeeks.org/k-nearest-neighbours/)
+	* [Udacity Explanation of KNNs](https://www.youtube.com/watch?v=mpU84OJ5vdQ)
+
+6)  **Support Vector Machine**: 
+	* [Support Vector Machine by Instructor Patrick Winston](https://www.youtube.com/watch?v=_PwhiWxHK8o)
+	* [Analytics Vidhya Explanation](https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/)
+	* [SVM Explanation on scikit learn ](https://scikit-learn.org/stable/modules/svm.html)
+
+		
+7) **K-Means**: 
+	* [Coursera Course - K Means](https://www.youtube.com/watch?v=hDmNF9JG3lo)
+	* [Stanford K Means Overview](http://stanford.edu/~cpiech/cs221/handouts/kmeans.html)
+	* [Siraj Raval K Means Tutorial](https://www.youtube.com/watch?v=9991JlKnFmk)
+	
+
 
