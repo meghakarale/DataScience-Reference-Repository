@@ -12,9 +12,10 @@ View all valued references that I have came across and have used to enhance my k
 ## Get started with Machine Learning
 
 Datascience is made up of 3 modules 
-1)Artificial Intelligence 
-2)Machine Learning
-3)Deep Learning . 
+* 1)Artificial Intelligence 
+* 2)Machine Learning
+* 3)Deep Learning . 
+
 AI being the bigger umbrella incorporates everything that a machine (i.e. computers) do to mimic human like behavior.
 Machine Learning is a subfield of Artificial Intelligence .Machine Learning becoming a buzz word in the IT industry, it's almost impossible to think of a industry that doesnt need intelligent solutions by adapting to Machine Learning paradigm. 
 Here I put forward my own experience , the direction in which I preferred learning the subject in a way to make it more easy and convenient  for anyone who is interested in knowing "How Machines Learn ?? "
