@@ -9,6 +9,7 @@ View all valued references that I have came across and have used to enhance my k
 * [Datascience Blogs to BINGE on ](#blogs-to-binge-on)
 * [Popular Python Libraries for Data Science](#popular-python-libraries-for-data-science)
 * [Deep Learning Research Papers](#deep-learning-research-papers)
+* [Data Sources to Dive Into](#data-sources-to-dive-into)
 
 
 ## Get started with Machine Learning
@@ -264,4 +265,19 @@ Papers that were quite influential in building and improving Deep Learning parad
 * [MobileNets](https://arxiv.org/pdf/1704.04861.pdf)
 * [Learning from Imbalanced Data](http://www.ele.uri.edu/faculty/he/PDFfiles/ImbalancedLearning.pdf)
 
+## Data Sources to Dive Into
 
+After learning Data Science its really essential to be hands on all the time , dont search for projects just dive into data from various domains.
+Get clean data from below free data source references , explore the data to create a vision , analyze trends, sample it and finally implement a model around it to automate the predictions.
+
+* [The home of the U.S. Government’s open data](https://www.data.gov/)
+* [Data published by UK central government departments ](https://data.gov.uk/)
+* [UniteStates Census Bureau](https://www.census.gov/data.html)
+* [Access to European Union open data](https://data.europa.eu/euodp/en/data/)
+* [The Bureau Of Justice Statistics](https://www.bjs.gov/index.cfm?ty=dca)
+* [U.S.Food & Drug](https://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files)
+* [High value health data](https://healthdata.gov/)
+* [NHS national information and technology partner to the health and care system](https://digital.nhs.uk/)
+* [World Bank Open Data](https://data.worldbank.org/)
+* [IMF publishes a range of time series data](https://www.imf.org/en/Data)
+* [Global Financial Data](https://www.globalfinancialdata.com/)
