@@ -4,8 +4,10 @@ View all valued references that I have came across and have used to enhance my k
 * [Getting Started with  Machine Learning](#get-started-with-machine-learning)
 * [Popular Algorithms in  Machine Learning](#popular-algorithms-in-machine-learning)
 * [Introduction to Deep Learning Algorithms](#introduction-to-deep-learning-algorithms)
-* [Deep Learning Research Papers](#deep-learning-research-papers)
 * [Reinforcement Learning / Robotics](#reinforcement-learning-robotics)
+* [DataScience Courses that would add Value to your understanding](#valuable-courses-for-indepth-insights)
+* [Deep Learning Research Papers](#deep-learning-research-papers)
+
 
 
 
@@ -96,6 +98,45 @@ To get understanding of how Machines Learn and how Machine Learning paradigm is 
 	* [Recurrent Neural Networks - Intel Nervana](https://www.youtube.com/watch?v=Ukgii7Yd_cU)
 	* [Introduction to RNNs](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
 
+## Reinforcement Learning Robotics
+
+* [End-to-end training of deep visuomotor policies (2016), S. Levine et al.](https://arxiv.org/pdf/1504.00702.pdf)
+* [Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection (2016), S. Levine et al.](https://arxiv.org/pdf/1603.02199.pdf)
+* [Asynchronous methods for deep reinforcement learning (2016), V. Mnih et al.](http://proceedings.mlr.press/v48/mniha16.pdf)
+* [Deep Reinforcement Learning with Double Q-Learning (2016), H. Hasselt et al.](https://arxiv.org/pdf/1509.06461.pdf)
+* [Mastering the game of Go with deep neural networks and tree search (2016), D. Silver et al.](https://www.nature.com/articles/nature16961)
+* [Continuous control with deep reinforcement learning (2015), T. Lillicrap et al.](https://arxiv.org/pdf/1509.02971.pdf)
+* [Deep learning for detecting robotic grasps (2015), I. Lenz et al.](http://www.cs.cornell.edu/~asaxena/papers/lenz_lee_saxena_deep_learning_grasping_ijrr2014.pdf)
+* [Playing atari with deep reinforcement learning (2013), V. Mnih et al.](https://arxiv.org/pdf/1312.5602.pdf)
+
+
+## Valuable Courses for Indepth Insights
+
+* [The Elements of Statistical Learning, Second Edition By Trevor Hastie, Robert Tibshirani, and Jerome Friedman, Springer](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+* [Applied Data Science with Python Specialization By Christopher Brooks, Kevyn Collins-Thompson, V. G. Vinod Vydiswaran, and Daniel Romero, University of Michigan/Coursera](https://www.coursera.org/specializations/data-science-python)
+* [Data Science: Foundations using R Specialization By Jeff Leek, Brian Caffo, and Roger Peng, Johns Hopkins/Coursera](https://www.coursera.org/specializations/data-science-foundations-r)
+* [Deep Learning By Andrew Ng, Kian Katanforoosh, and Younes Bensouda Mourri, Stanford/deeplearning.ai/Coursera](https://www.coursera.org/specializations/deep-learning)
+* [Fundamentals of Machine Learning By Jeff Prosise, Wintellectnow](https://www.wintellectnow.com/Videos/Watch?videoId=fundamentals-of-machine-learning)
+* [Machine Learning By Andrew Ng, Stanford/Coursera](https://www.coursera.org/learn/machine-learning)
+* [Machine Learning By Carlos Guestrin and Emily Fox , University of Washington/Coursera](https://www.coursera.org/specializations/machine-learning)
+* [Stanford CS 231N](https://www.youtube.com/watch?v=g-PvXUjD6qg&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA) - CNNs
+* [Stanford CS 224D](https://www.youtube.com/watch?v=sU_Yu_USrNc&list=PLTuSSFCVeNVCXL0Tak5rJ83O-Bg_ajO5B) - Deep Learning for NLP
+* [Hugo Larochelle's Neural Networks Course](https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+* [David Silver's Reinforcement Learning Course](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL5X3mDkKaJrL42i_jhE4N-p6E2Ol62Ofa)
+* [Andrew Ng Machine Learning Course](https://www.coursera.org/learn/machine-learning)
+* [Stanford CS 229](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599) - Pretty much the same as the Coursera course
+* [UC Berkeley Kaggle Decal](https://kaggledecal.github.io/)
+* [Short MIT Intro to DL Course](https://www.youtube.com/playlist?list=PLkkuNyzb8LmxFutYuPA7B4oiMn6cjD6Rs)
+* [Udacity Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
+* [Deep Learning School Montreal 2016](http://videolectures.net/deeplearning2016_montreal/) and [2017](http://videolectures.net/deeplearning2017_montreal/)
+* [Intro to Neural Nets and ML (Univ of Toronto)](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/)
+* [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+* [CMU Neural Networks for NLP](http://www.phontron.com/class/nn4nlp2017/schedule.html)
+* [Bay Area Deep Learning School Day 1 2016](https://www.youtube.com/watch?v=eyovmAtoUx0) and [Day 2](https://www.youtube.com/watch?v=9dXiAecyJrY)
+* [Introduction to Deep Learning MIT Course](https://www.youtube.com/playlist?list=PLkkuNyzb8LmxFutYuPA7B4oiMn6cjD6Rs)
+* [Caltech CS 156 - Machine Learning](https://www.youtube.com/playlist?list=PLD63A284B7615313A)
+* [Berkeley EE 227C - Convex Optimization](https://ee227c.github.io/)
+
 
 
 ## Deep Learning Research Papers:  
@@ -170,13 +211,3 @@ Papers that were quite influential in building and improving Deep Learning parad
 * [Learning from Imbalanced Data](http://www.ele.uri.edu/faculty/he/PDFfiles/ImbalancedLearning.pdf)
 
 
-## Reinforcement Learning Robotics
-
-* [End-to-end training of deep visuomotor policies (2016), S. Levine et al.](https://arxiv.org/pdf/1504.00702.pdf)
-* [Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection (2016), S. Levine et al.](https://arxiv.org/pdf/1603.02199.pdf)
-* [Asynchronous methods for deep reinforcement learning (2016), V. Mnih et al.](http://proceedings.mlr.press/v48/mniha16.pdf)
-* [Deep Reinforcement Learning with Double Q-Learning (2016), H. Hasselt et al.](https://arxiv.org/pdf/1509.06461.pdf)
-* [Mastering the game of Go with deep neural networks and tree search (2016), D. Silver et al.](https://www.nature.com/articles/nature16961)
-* [Continuous control with deep reinforcement learning (2015), T. Lillicrap et al.](https://arxiv.org/pdf/1509.02971.pdf)
-* [Deep learning for detecting robotic grasps (2015), I. Lenz et al.](http://www.cs.cornell.edu/~asaxena/papers/lenz_lee_saxena_deep_learning_grasping_ijrr2014.pdf)
-* [Playing atari with deep reinforcement learning (2013), V. Mnih et al.](https://arxiv.org/pdf/1312.5602.pdf)
